@@ -4,7 +4,8 @@ This project aims to help users plan a road trip through California by providing
 
 ***NOTE***: The reason why we did this project is because we were participants in a competition arranged by TripleTen titled "June 2024 Code Jam". 
 
-More information about it can be found here: https://coding-bootcamps.notion.site/June-Code-Jam-June-2024-e8babfd291064a6fa455bfc491f08fdd 
+More information about it can be found here: 
+https://coding-bootcamps.notion.site/June-Code-Jam-June-2024-e8babfd291064a6fa455bfc491f08fdd 
 
 Furthermore, the full live stream of all the presentations can be found here: https://www.youtube.com/live/BqdfDUsV7z8
 
