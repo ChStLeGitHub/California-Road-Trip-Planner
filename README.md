@@ -20,9 +20,9 @@ In order to run locally, navigate to the root directory in the terminal and run 
 - GitHub Pages was used to publish the site, and WebPack was used to deploy the site to GitHub.
 
 ## Features
-- **Interactive Map**: Select and view various destinations within California.
-- **Route Optimization**: Calculate the shortest route through the cities selected by the user.
-- **Points of Interest**: Discover popular attractions, including national parks and theme parks.
+- **Interactive Map:** Select and view various destinations within California.
+- **Route Optimization:** Calculate the shortest route through the cities selected by the user.
+- **Points of Interest:** Discover popular attractions, including national parks and theme parks.
 
 ## Data Commentary
 The team collected data on the latitude and longitude of most cities in California, as well as the prevalence of violent crime in each city and the address(es) of any Chipotle stores in each city. Lastly, the team also found the latitude and longitude coordinates of ten popular attractions in the state.
